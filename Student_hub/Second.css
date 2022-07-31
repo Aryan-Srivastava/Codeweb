@@ -1,0 +1,142 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cecfda;
+}
+
+.column {
+	display: flex;
+    width: 20%;
+    float: left;
+    padding: 10px 5px;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+	/* display: none; */
+	width: 2px; /* width of the scrollbar */
+	height: 0px; /* height of the scrollbar */
+	background: rgb(160, 198, 255); /* background color of the scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+	background: linear-gradient(
+		rgb(134, 239, 172),
+		rgb(95, 156, 255),
+		rgb(165, 76, 249)
+	);
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width:600px) {
+    .column {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+    }
+}
+
+.card {
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.2);
+    /* max-width: 300px; */
+    width: 300px;
+    margin: auto;
+    max-height: 400px;
+    min-height: 400px;
+    background-color: white;
+    text-align: center;
+    border-radius: 30px;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-image {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    max-height: 10px;
+    font-size: 1rem;
+}
+
+
+/* change by mmd--> adjusted margin to avoid content out of the card bound */
+
+.title {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-top: 10px;
+}
+
+.a {
+    padding: 10px;
+}
+
+.set {
+    width: 1500px;
+    height: 1500px;
+    object-fit: fill;
+    border-radius: 19px;
+}
+
+.title {
+    color: gray;
+    font-size: 18px;
+}
+
+.fa-github {
+    padding: 10px;
+}
+
+.fa-instagram {
+    padding-right: 10px;
+}
+
+button {
+    border: none;
+    padding: 8px;
+    display: inline-block;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    width: 70%;
+    border-radius: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+a:hover,
+button:hover {
+    opacity: 0.6;
+}
+
+
+/* change by mmd--> adjusted margin to avoid content out of the card bound */
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
