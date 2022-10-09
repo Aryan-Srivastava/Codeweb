@@ -4,11 +4,11 @@ This repository contains , The project i.e. Web-Site using Html , Css , JavaScri
 
 If you like what you see do follow us , and leave a star to the repository.
 
+![codeweb landing page](https://user-images.githubusercontent.com/68139593/194764017-027a0910-be05-4896-9fb8-4f07f3c38b16.png)
 
+![codeweb editor](https://user-images.githubusercontent.com/68139593/194764022-6d9b6745-6f6d-44aa-a621-3e5ae2fe45a0.png)
 
-                 **** The screan-shot of the website are as follows***   
-
-   
+![codeweb devcard](https://user-images.githubusercontent.com/68139593/194764092-857ac37a-ba0d-4649-9a75-59782d09ad34.png)
 
  <p align="center">
  <!--   paste image here in future  -->
