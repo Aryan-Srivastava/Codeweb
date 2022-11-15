@@ -90,7 +90,8 @@ git checkout -b <your_branch_name>
 
    <!-------------------------------------------------------Student Card------------------------------------------------------------------------------>
    <div class="student-card" style="border-radius: 1.5em;"> 
-       <img loading="lazy" style="border-radius: 1.5em;" src="https://github.com/Mahakpreetkaur.png" alt="Student Image" />
+       <!-----------------------Change your image link here----------------------------->
+       <img loading="lazy" style="border-radius: 1.5em;" src="https://github.com/user.png" alt="Student Image" />
        <div class="student-info"> 
            <!-----------------------Change your name here----------------------------->
            <h4 class="student-name">Name</h4>
