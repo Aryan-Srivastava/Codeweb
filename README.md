@@ -88,27 +88,36 @@ git checkout -b <your_branch_name>
 
 ```html
 
-  <!-- --------------------------------------------------------------------------------------------------------------------------------- -->
-
-
-        <div class="column">
-            <div class="card">
-                <img class="set" src="image url " style="width:200px;height:200px;margin-top:10px">
-
-                <h1> Your name  </h1>
-                <p class="title">Designation</p>
-                <p>B.tech CSE 3rd year </p> 
-                <a href="Linkedin url" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-                <a href="Github url" target="_blank"><i class="fa fa-github"></i></a>
-                <a href="Instagram url" target="_blank"><i class="fa fa-instagram"></i></a>
-                <a href="Twitter url" target="_blank"><i class="fa fa-twitter"></i></a>
-
-            </div>
-        </div>
-
-
-        <!-- --------------------------------------------------------------------------------------------------------------------------------- -->
-
+   <!-------------------------------------------------------Student Card------------------------------------------------------------------------------>
+   <div class="student-card" style="border-radius: 1.5em;"> 
+       <!-----------------------Change your image link here----------------------------->
+       <img loading="lazy" style="border-radius: 1.5em;" src="https://github.com/user.png" alt="Student Image" />
+       <div class="student-info"> 
+           <!-----------------------Change your name here----------------------------->
+           <h4 class="student-name">Name</h4>
+           <div class="student-bio">
+               <!-----------------------Change your bio here-------------------------->
+               <p> 
+                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat consequatur unde assumenda
+                   nemo libero id at veniam maxime magni repudiandae?
+               </p>
+           </div>
+           <!------------------------------Change your social links here------------------------------------>
+           <div class="student-links"> 
+               <!------------------------------linked in ------------------------------------>
+               <a href="https://www.linkedin.com/in" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+               <!------------------------------github ------------------------------------>
+               <a href="https://github.com/" target="_blank"><i class="fa fa-github"></i></a>
+               <!------------------------------instagram------------------------------------>
+               <a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram"></i></a>
+               <!------------------------------twitter------------------------------------>
+               <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
+           </div>
+           <!-----------------------Change your role here-----------------------------> 
+           <div class="student-tech">Web Developer</div>
+       </div>
+   </div>
+  <!-------------------------------------------------------Student Card------------------------------------------------------------------------------>
 
 ``` 
 
