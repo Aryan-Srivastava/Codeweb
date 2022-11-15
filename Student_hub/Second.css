@@ -44,10 +44,17 @@ section {
 	height: 100%;
 }
 
+
 .student-name {
+    width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	
 	margin: 0 0 0 0;
 	font-weight: bold;
 	font-size: 20px;
+	text-overflow: ellipsis;
 	font-size: clamp(20px, 3vw, 24px);
 }
 

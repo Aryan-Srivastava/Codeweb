@@ -24,7 +24,7 @@ If you like what you see do follow us , and leave a star to the repository.
 
 ### Features
 - Write, run HTML, CSS and JavaScript code online on  [CodeWeb](https://amanassassin.github.io/Web-Development/code_editor/codeEditor.html)
-- Connect to each other on  [Student Hub](https://amanassassin.github.io/Web-Development/Student_hub/Second.html)
+- Connect to each other on  [Developer card](https://amanassassin.github.io/Web-Development/Student_hub/Second.html)
 
 
 #           💻Project Admins :-
@@ -95,13 +95,6 @@ git checkout -b <your_branch_name>
        <div class="student-info"> 
            <!-----------------------Change your name here----------------------------->
            <h4 class="student-name">Name</h4>
-           <div class="student-bio">
-               <!-----------------------Change your bio here-------------------------->
-               <p> 
-                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat consequatur unde assumenda
-                   nemo libero id at veniam maxime magni repudiandae?
-               </p>
-           </div>
            <!------------------------------Change your social links here------------------------------------>
            <div class="student-links"> 
                <!------------------------------linked in ------------------------------------>
