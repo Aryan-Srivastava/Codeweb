@@ -36,12 +36,12 @@ If you like what you see do follow us , and leave a star to the repository.
 
 # Contributing
 
-**1.**  Fork [this](https://github.com/AmanAssassin/Web-Development.git) repository.
+**1.**  Fork [this](https://github.com/Aryan-Srivastava/Codeweb.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/AmanAssassin/Web-Development.git
+https://github.com/Aryan-Srivastava/Codeweb.git
 
 ```
 
@@ -54,7 +54,7 @@ cd Web-Development
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/AmanAssassin/Web-Development
+git remote add upstream https://github.com/Aryan-Srivastava/Codeweb.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -178,8 +178,8 @@ Aryan Srivastava</b></sub></a><br>💻
 
 ### License
 
-All linceses & copyrights are reserved to the [Team](https://amanassassin.github.io/Web-Development/)
+All linceses & copyrights are reserved to the [Team](https://github.com/Aryan-Srivastava/Codeweb.git)
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/AmanAssassin/Web-Development/blob/cf381b6e2d406626ede426fc1a7c9900ffdf3515/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Aryan-Srivastava/Codeweb.git/blob/cf381b6e2d406626ede426fc1a7c9900ffdf3515/LICENSE)
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
