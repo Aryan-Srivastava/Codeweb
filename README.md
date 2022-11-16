@@ -171,7 +171,7 @@ git push -u origin <your_branch_name>
 Aryan Srivastava</b></sub></a><br>💻 
 
  <td align="center"><a href="https://github.com/Manmohan11"><img alt="" src="https://github.com/Manmohan11.png" width="130px;"><br><sub><b>
-Aryan Srivastava</b></sub></a><br>💻 
+Manmohan Dwivedi</b></sub></a><br>💻 
   </tr>
 </tbody></table>
 <br>
