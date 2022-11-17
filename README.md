@@ -24,7 +24,7 @@ If you like what you see do follow us , and leave a star to the repository.
 
 ### Features
 - Write, run HTML, CSS and JavaScript code online on  [CodeWeb](https://amanassassin.github.io/Web-Development/code_editor/codeEditor.html)
-- Connect to each other on  [Student Hub](https://amanassassin.github.io/Web-Development/Student_hub/Second.html)
+- Connect to each other on  [Developer card](https://amanassassin.github.io/Web-Development/Student_hub/Second.html)
 
 
 #           💻Project Admins :-
@@ -36,12 +36,12 @@ If you like what you see do follow us , and leave a star to the repository.
 
 # Contributing
 
-**1.**  Fork [this](https://github.com/AmanAssassin/Web-Development.git) repository.
+**1.**  Fork [this](https://github.com/Aryan-Srivastava/Codeweb.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/AmanAssassin/Web-Development.git
+https://github.com/Aryan-Srivastava/Codeweb.git
 
 ```
 
@@ -54,7 +54,7 @@ cd Web-Development
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/AmanAssassin/Web-Development
+git remote add upstream https://github.com/Aryan-Srivastava/Codeweb.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -95,13 +95,6 @@ git checkout -b <your_branch_name>
        <div class="student-info"> 
            <!-----------------------Change your name here----------------------------->
            <h4 class="student-name">Name</h4>
-           <div class="student-bio">
-               <!-----------------------Change your bio here-------------------------->
-               <p> 
-                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat consequatur unde assumenda
-                   nemo libero id at veniam maxime magni repudiandae?
-               </p>
-           </div>
            <!------------------------------Change your social links here------------------------------------>
            <div class="student-links"> 
                <!------------------------------linked in ------------------------------------>
@@ -178,15 +171,15 @@ git push -u origin <your_branch_name>
 Aryan Srivastava</b></sub></a><br>💻 
 
  <td align="center"><a href="https://github.com/Manmohan11"><img alt="" src="https://github.com/Manmohan11.png" width="130px;"><br><sub><b>
-Aryan Srivastava</b></sub></a><br>💻 
+Manmohan Dwivedi</b></sub></a><br>💻 
   </tr>
 </tbody></table>
 <br>
 
 ### License
 
-All linceses & copyrights are reserved to the [Team](https://amanassassin.github.io/Web-Development/)
+All linceses & copyrights are reserved to the [Team](https://github.com/Aryan-Srivastava/Codeweb.git)
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/AmanAssassin/Web-Development/blob/cf381b6e2d406626ede426fc1a7c9900ffdf3515/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Aryan-Srivastava/Codeweb.git/blob/cf381b6e2d406626ede426fc1a7c9900ffdf3515/LICENSE)
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
